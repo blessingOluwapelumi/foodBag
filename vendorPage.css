@@ -54,7 +54,7 @@ nav a {
     text-decoration:none;
 }
 
-.top-text span {
+.top-text a span {
     color: black;
     font-weight: 500;
 }
